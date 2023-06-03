@@ -1,0 +1,39 @@
+* {
+    padding-top: 30px;
+}
+
+#container {
+    background: #9e3030;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    padding: 10px;
+    top: 0;
+    left: 0;
+    text-align: center;
+}
+
+.titulo {
+    color: wheat;
+    font-family: sans-serif;
+    font-size: 40px;
+    margin-bottom: -10px;
+}
+
+.button{
+    padding-top: 30px;
+}
+
+.btn {
+    background-color: rgb(22, 21, 21);
+    color: wheat;
+    border: none;
+    padding: 10px;
+    width: 80px;
+    border-radius: 6px;
+    font-family: sans-serif;
+}
+
+.img {
+    width: 20%;
+}
