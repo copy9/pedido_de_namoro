@@ -10,3 +10,6 @@ Em resumo, o projeto "Namora Comigo" é uma aplicação Git interativa que envol
 
 
 ![Capturar](https://github.com/copy9/pedido_de_namoro/assets/109824227/415e0a81-f9c4-4476-892d-e87d841382ba)
+
+
+O projeto "Namora Comigo" foi desenvolvido utilizando as linguagens HTML, CSS e JavaScript. Essas três tecnologias foram combinadas para criar uma experiência interativa e visualmente atraente para o usuário.
